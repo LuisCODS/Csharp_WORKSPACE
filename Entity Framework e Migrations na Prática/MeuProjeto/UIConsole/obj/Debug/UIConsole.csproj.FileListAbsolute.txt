@@ -1,0 +1,10 @@
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe.config
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.exe
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\UIConsole.pdb
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.dll
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.xml
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.csprojResolveAssemblyReference.cache
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.exe
+E:\Entity Framework e Migrations na Prática\MeuProjeto\UIConsole\obj\Debug\UIConsole.pdb
